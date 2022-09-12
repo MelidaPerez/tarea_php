@@ -55,7 +55,7 @@
         </div>
 
         <div class="mb-3">
-            <label for="lbl_tipo_sangre" class="form-label"><b>Puesto</b></label>
+            <label for="lbl_tipo_sangre" class="form-label"><b>Tipo Sangre</b></label>
             <select class="form-select" name="drop_tipo_sangre" id="drop_tipo_sangre">
                 <option value=0> ---- TIPO SANGRE ---- </option>
                 <?php 
